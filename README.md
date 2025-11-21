@@ -1,4 +1,5 @@
 #PENJELASAN PROYEK
+
 perbedaan Cubit dan BLoC dalam Arsitektur Flutter:
 Meskipun Cubit merupakan bagian dari Bloc Library, keduanya menawarkan pendekatan yang berbeda dalam mengelola state (keadaan) aplikasi:
 Cubit hanya menggunakan fungsi emit(newState) untuk memancarkan state baru secara langsung. Ini membuatnya lebih lugas dan sederhana.
@@ -15,6 +16,7 @@ BLoC: Menggunakan dua Stream utama secara eksplisit, yaitu Event Stream (sebagai
 #Fokus Arsitektur
 
 #Jawaban Teori
+
 Mengapa Penting Memisahkan Model Data, Logika Bisnis, dan UI?
 Pemisahan ini penting dalam pengembangan aplikasi modern karena prinsip Separation of Concerns (Pemisahan Kekhawatiran) yang memberikan beberapa keuntungan utama:
 
