@@ -1,4 +1,4 @@
-#JAWABAN TEORI
+#PENJELASAN PROYEK
 perbedaan Cubit dan BLoC dalam Arsitektur Flutter:
 Meskipun Cubit merupakan bagian dari Bloc Library, keduanya menawarkan pendekatan yang berbeda dalam mengelola state (keadaan) aplikasi:
 Cubit hanya menggunakan fungsi emit(newState) untuk memancarkan state baru secara langsung. Ini membuatnya lebih lugas dan sederhana.
