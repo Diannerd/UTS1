@@ -1,3 +1,6 @@
+NAMA: DIANNE RAMADHANI
+NPM: 23552011364
+
 #PENJELASAN PROYEK
 
 perbedaan Cubit dan BLoC dalam Arsitektur Flutter:
